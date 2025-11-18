@@ -162,4 +162,13 @@ Modify vista() to change search/aggression behavior.
 
 ---
 
+## 📜 License
+
+This project is open-source and free to use for education, competitions and personal learning.
+
+---
+
+## ✨ Author
+
+Developed and maintained by **Alessandro Han**.
 
