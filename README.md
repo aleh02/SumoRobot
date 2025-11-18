@@ -1,6 +1,7 @@
 # 🤖 Sumo Robot – Arduino Project
 
 This project implements an **autonomous sumo robot** built with Arduino UNO.  
+
 The robot uses:
 
 - CNY70 line sensors (`CNYSX`, `CNYDX`) to detect the ring border  
